@@ -48,6 +48,7 @@ Please find the report in `/docs` folder.
 ## Developer
 - Rutu Barvaliya
 - Kein Mai
+- Christopher Eu
 
 # DatabaseProject_Destiny2
 A database project intended to fulfill course requirements for COMP 3380 for the University of Manitoba. Utilizes the Bungie API and Destiny 2 database information.
